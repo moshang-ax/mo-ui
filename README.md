@@ -1,6 +1,6 @@
 # mo-ui
 
-基于Vue2.x的PC组件库。[在线示例](https://moshang-xc.github.io/mo-ui/)
+基于Vue2.x的PC组件库。[在线示例](https://moshang-ax.github.io/mo-ui/)
 
 ## API
 
